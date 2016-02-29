@@ -6,6 +6,6 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is avalilable at: https://steven1643.shinyapps.io/ddp_project/
 
-The presentation is available at: 
+The presentation is available at: http://rpubs.com/steven1643/157045
 
 Files for the presentation are avalilable on the GitHub: https://github.com/steven1643/dataproducts
